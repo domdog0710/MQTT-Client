@@ -1,0 +1,10 @@
+{
+  "name": "com.domdom.mqtt.client",
+  "displayName": "MQTT Client",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "MQTT Client",
+  "author": {
+    "name": "Dom Dom"
+  }
+}
